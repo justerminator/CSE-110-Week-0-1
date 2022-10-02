@@ -11,6 +11,11 @@
 - Piano
 - Sightseeing
 - Roller coasters
+
+## My favorite type of Dog (Labradoodle)
+![](https://vetstreet.brightspotcdn.com/dims4/default/7d8a842/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F1c%2F854d80a8b511e0a0d50050568d634f%2Ffile%2Flabradoodle-2-645mk070111.jpg)
+
+
   
 ## Dislikes (From most to least hated)
 1. Rudeness
